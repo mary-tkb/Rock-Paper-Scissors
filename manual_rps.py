@@ -10,7 +10,6 @@ def get_user_choice():
 def get_computer_choice():
     choice= random.choice(['rock', 'paper', 'scissors'])
     print('Computer chose:' + choice)
-    
     return choice
     
     
