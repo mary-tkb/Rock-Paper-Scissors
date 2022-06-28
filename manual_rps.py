@@ -3,6 +3,7 @@ import random
 
 def get_user_choice():
     user_choices = input('Welcome to the game!Please select rock, paper or scissors:')
+    
     return user_choices
 
 
